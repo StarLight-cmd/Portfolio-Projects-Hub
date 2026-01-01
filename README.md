@@ -53,7 +53,7 @@ https://github.com/StarLight-cmd/Inventory-Management-System-Mobile-Android-
 
 ---
 
-Social Media Platform
+### Social Media Platform
 
 Tech Stack: PHP (MVC), HTML, CSS, SQL
 
