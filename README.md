@@ -24,7 +24,7 @@ I am a BSc Information Technology graduate with experience in developing full-st
 ### Weather Management System
 **Tech Stack:** React, Spring Boot, MySQL  
 
-A full-stack weather management application that provides real-time weather data, location-based subscriptions, disaster-prevention tools, and secure user authentication. The system integrates third-party weather APIs and demonstrates RESTful API design, frontend–backend communication, and persistent data storage.
+A full-stack weather management application that provides real-time weather data, location-based subscriptions, disaster-prevention tools, and secure user authentication. The system integrates third-party weather APIs and demonstrates RESTful API design, frontend-backend communication, and persistent data storage.
 
 **Repository:**  
 https://github.com/yourusername/weather-management-system
