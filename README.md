@@ -1,5 +1,5 @@
 # Portfolio Projects Hub
-A curated collection of full-stack and software development projects demonstrating practical problem-solving and real-world system design.
+A curated collection of my full-stack and software development projects demonstrating practical problem-solving and real-world system design.
 
 ---
 
