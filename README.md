@@ -37,6 +37,7 @@ https://github.com/yourusername/weather-management-system
 A library management system developed to assist local libraries and underserved communities in managing book catalogues efficiently. The project was built following established software engineering practices, including the MVC architectural pattern and Agile development principles. I served as the team lead, coordinating and managing a group of peers while also contributing directly to the system’s design and implementation.
 
 The application supports real-time book tracking, fine management, KPI-style reporting, and user-focused features such as automated book recommendations.
+
 **Repository:**  
 https://github.com/yourusername/library-management-system
 
