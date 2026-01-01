@@ -3,7 +3,7 @@ A curated collection of full-stack and software development projects demonstrati
 
 ---
 
-## Sashen — BSc IT Graduate
+## Sashen : BSc IT Graduate
 
 ### About Me
 I am a BSc Information Technology graduate with experience in developing full-stack applications using Java, Spring Boot, React, and MySQL. I am seeking a junior software developer role where I can contribute to real-world systems, apply sound software engineering principles, and continue developing my technical skills.
