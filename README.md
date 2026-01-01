@@ -39,7 +39,7 @@ A library management system developed to assist local libraries and underserved 
 The application supports real-time book tracking, fine management, KPI-style reporting, and user-focused features such as automated book recommendations.
 
 **Repository:**  
-https://github.com/yourusername/library-management-system
+https://github.com/StarLight-cmd/Library-Management-System
 
 ---
 
