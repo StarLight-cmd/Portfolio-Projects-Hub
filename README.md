@@ -21,16 +21,6 @@ I am a BSc Information Technology graduate with experience in developing full-st
 
 ## Projects
 
-### Weather Management System
-**Tech Stack:** React, Spring Boot, MySQL  
-
-A full-stack weather management application that provides real-time weather data, location-based subscriptions, disaster-prevention tools, and secure user authentication. The system integrates third-party weather APIs and demonstrates RESTful API design, frontend-backend communication, and persistent data storage.
-
-**Repository:**  
-https://github.com/StarLight-cmd/Weather-Management-System
-
----
-
 ### Library Management System
 **Tech Stack:** Java, JSP, MySQL  
 
@@ -40,6 +30,16 @@ The application supports real-time book tracking, fine management, KPI-style rep
 
 **Repository:**  
 https://github.com/StarLight-cmd/Library-Management-System
+
+---
+
+### Weather Management System
+**Tech Stack:** React, Spring Boot, MySQL  
+
+A full-stack weather management application that provides real-time weather data, location-based subscriptions, disaster-prevention tools, and secure user authentication. The system integrates third-party weather APIs and demonstrates RESTful API design, frontend-backend communication, and persistent data storage.
+
+**Repository:**  
+https://github.com/StarLight-cmd/Weather-Management-System
 
 ---
 
