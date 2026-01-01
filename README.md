@@ -49,7 +49,7 @@ https://github.com/StarLight-cmd/Library-Management-System
 An Android-based inventory management application designed to help small- to medium-sized businesses manage stock levels, record sales, and generate basic KPI reports. This project demonstrates mobile application development, local data persistence, and user-focused interface design.
 
 **Repository:**  
-https://github.com/yourusername/inventory-management-system
+https://github.com/StarLight-cmd/Inventory-Management-System-Mobile-Android-
 
 ---
 
