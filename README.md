@@ -62,7 +62,7 @@ A PHP-based social media web application developed using the MVC architectural p
 This project demonstrates server-side web development, MVC-based application structure, user interaction design, and core social networking features.
 
 Repository:
-https://github.com/yourusername/php-social-media-platform
+https://github.com/StarLight-cmd/Social-Media-Website
 
 ---
 
