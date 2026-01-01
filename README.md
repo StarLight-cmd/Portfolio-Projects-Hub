@@ -11,7 +11,7 @@ I am a BSc Information Technology graduate with experience in developing full-st
 ---
 
 ## Technical Skills
-- **Languages:** Java, JavaScript, SQL  
+- **Languages:** Java, JavaScript, PHP, SQL
 - **Frontend:** React, HTML, CSS  
 - **Backend:** Spring Boot  
 - **Databases:** MySQL, SQLite  
@@ -50,6 +50,19 @@ An Android-based inventory management application designed to help small- to med
 
 **Repository:**  
 https://github.com/StarLight-cmd/Inventory-Management-System-Mobile-Android-
+
+---
+
+Social Media Platform
+
+Tech Stack: PHP (MVC), HTML, CSS, SQL
+
+A PHP-based social media web application developed using the MVC architectural pattern. The platform allows users to participate in community discussions through a shared chat page, exchange direct messages with other users, and share media content. It also includes user profile management and secure user login functionality.
+
+This project demonstrates server-side web development, MVC-based application structure, user interaction design, and core social networking features.
+
+Repository:
+https://github.com/yourusername/php-social-media-platform
 
 ---
 
