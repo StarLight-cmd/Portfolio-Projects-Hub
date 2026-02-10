@@ -33,7 +33,7 @@ https://github.com/StarLight-cmd/Library-Management-System
 
 ---
 
-### SkillTracker Application
+### SkillTracker AI Application
 **Tech Stack:** React, Spring Boot, MySQL, XAMPP, Ollama
 
 A full-stack AI skill tracking platform that enables users to manage personal skills, monitor progress, generate structured skill reports, and interact with an integrated LLM. The application follows an MVC architecture with a React frontend communicating with a Spring Boot REST API backed by a MySQL database and Ollama for local LLM support. It includes secure authentication, persistent data management, and a conversational assistant that processes user input through the interface and returns AI-generated guidance without relying on external cloud services. 
